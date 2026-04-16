@@ -5,7 +5,8 @@
 **MOUSE: P.I. For Hire** is a charming hand-drawn point-and-click detective adventure game. Play as a witty mouse private investigator solving quirky cases in a vibrant, cartoon-style world full of humor, puzzles, and memorable characters.
 Experience the full desktop release version with optimized performance, higher resolution support, smooth controls, and all the latest updates for Windows PC.
 
-<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/e9dbf97a-a9bd-4962-9a54-24a9bb6d375c" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7e941363-1606-4641-a2fb-c838645e6a19" />
+
 
 ---
 
